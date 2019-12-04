@@ -1,0 +1,28 @@
+.cta {
+  position: relative;
+  z-index: 1;
+  margin: -30px 0 55px;
+  text-align: center;
+  color: #848e97;
+  font-size: 14px;
+  line-height: 1.28571428;
+  .rev{
+    margin: 0 0 16px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: bold;
+    color: white;
+    padding: 17px;
+    min-width: 250px;
+    background-color: #8d81ac;
+    &:hover{
+      background-color: $hoverColor;
+      color: $color;
+  }
+}}
+h1{
+  color: #635c73;
+  font-family: 'Montserrat';
+  font-weight: bold;
+}

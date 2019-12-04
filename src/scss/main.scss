@@ -6,9 +6,10 @@ $bgHeader: #27262a;
 $color: #8d81ac;
 $hoverColor: white;
 $bgButton: #8d81ac;
+$brand-primary:#3a2e3d;
 
 @import 'header';
-@import 'pricing';
+@import 'editor';
 @import 'talking';
 @import 'pricing';
 
