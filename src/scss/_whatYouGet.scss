@@ -1,0 +1,28 @@
+.container-sec{
+  overflow: hidden;
+  .what{
+    background-color: #f4f4f4;
+    .card-img-1{
+      width: 111px;
+      height: 64px
+    }
+  }
+  .card-img-2{
+    width: 90px;
+    height: 80px
+  }
+  .card-img-3{
+    width: 60px;
+    height: 84px
+  }
+  .card-img-4{
+    width: 71px;
+    height: 71px
+  }
+  h2{
+    color: $bgButton;
+  }
+  .bg{
+    width: 100%;
+  }
+}

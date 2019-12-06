@@ -1,4 +1,4 @@
-.cta {
+.revEd {
   position: relative;
   z-index: 1;
   margin: -30px 0 55px;
@@ -15,7 +15,7 @@
     color: white;
     padding: 17px;
     min-width: 250px;
-    background-color: #8d81ac;
+    background-color: $color;
     &:hover{
       background-color: $hoverColor;
       color: $color;
